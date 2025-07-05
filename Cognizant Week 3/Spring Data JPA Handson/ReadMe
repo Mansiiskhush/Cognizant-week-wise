@@ -1,0 +1,4 @@
+This folder covers Mandatory HandsOn from Spring Data JPA with Spring Boot, Hibernate
+That is HandsOn 1,5 and 6 are inside the Orm-learn folder, that application covers these.
+And HandsOn 4 theory part is covered inside the text file uploaded. For practical examples we have already done orm-learn (for JPA with Hibernate)
+and Spring Boot project (with Spring Data JPA)
