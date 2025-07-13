@@ -1,0 +1,8 @@
+This repository contains implementations of various Week -4 Mandatory Handsons.
+
+The spring-jwt-auth folder includes the solution for "5. JWT-handson" titled "Create authentication service that returns JWT", 
+which demonstrates how to build a Spring Boot-based authentication service that generates and returns a JWT upon successful login.
+
+The spring-learn folder contains the implementations for the earlier hands-on tasks, namely "1. spring-rest-handson" and "2. spring-core-handson".
+This includes setting up a Spring Web project using Maven, loading a Country bean using Spring Core with XML configuration, 
+creating a Hello World RESTful web service, building a REST-based Country web service, and retrieving country data based on country code.
